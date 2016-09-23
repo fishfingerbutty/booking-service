@@ -1,0 +1,6 @@
+name: booking-service
+dependencies:
+    - payment-service
+    - rewards-service
+    - flights-service
+
